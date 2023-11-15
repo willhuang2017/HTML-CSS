@@ -1,9 +1,7 @@
-# HTML-CSS
-HTML &amp; CSS Projects
+# Javascript
 
-Projects
+Javascript Projects
 
-1. "Broadway" - Display and Positioning, Fundamentals of CSS, Codecademy
-2. "Davie's Burgers" - The Box Model, Fundamentals of CSS, Codecademy
-3. "Form A Story" - Forms, Learn HTML, Codecademy
-4. "New York City Blog" - Semantic HTML, Fundamentals of HTML, Codecademy
+1. "Number Guesser" - Challenge Project: Number Guesser, Javascript Synatax, Part I, Codecademy
+2. "Grammar Checker" - Learn Javascript: Iterators, Javascript Synatax, Part II, Codecademy
+3. "Mysterious Organisms" - Challenge Project: Mysterious Organisms, Javascript Synatax, Part I, Codecademy
